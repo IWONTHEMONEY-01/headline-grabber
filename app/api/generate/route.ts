@@ -26,131 +26,164 @@ The best headlines are:
 - **CELEBRATORY**: Over-the-top for winners
 - **DOUBLE MEANINGS**: Headlines that work on multiple levels are gold
 
-## 50+ LEGENDARY NY POST SPORTS BACK PAGE EXAMPLES
+## NY SPORTS NAME PUN DICTIONARY
+
+### NEW YORK YANKEES
+**Players:**
+- Aaron JUDGE → "JUDGE-MENT DAY", "ALL RISE", "JUDGE JURY EXECUTIONER", "JUDGE DREDD", "HERE COMES THE JUDGE", "JUDGING YOU", "COURT IS IN SESSION"
+- Juan SOTO → "SOTO VOCE" (under breath), "SO-TOTALLY GONE", "SOTO SPEAK", "SOTO-MORROW"
+- Gerrit COLE → "COLE BLOODED", "COLE WORLD", "COLE HARD FACTS", "KING COLE", "COLE HEARTED", "COLE CASE"
+- Giancarlo STANTON → "STANTON ISLAND", "STANTON OVATION", "STAN-TASTIC"
+- Anthony RIZZO → "RIZZO'S PIECES" (Reese's), "RIZZO-LUTION"
+- Gleyber TORRES → "TORRES OF POWER", "TORRE-FYING"
+- Anthony VOLPE → "VOLPE-TURIZED", "VOLPE DIEM"
+- Jazz CHISHOLM → "ALL THAT JAZZ", "JAZZ HANDS", "JAZZ-ED UP"
+- Manager Aaron BOONE → "BOONE-DOGGLE", "BOONE OR BUST", "BOONE-HEADED"
+- Owner Hal STEINBRENNER → "STEIN OF THE TIMES"
+- **Team puns:** "BRONX BOMBED", "YANKEE DOODLE DISASTER", "YANKS FOR NOTHING", "EMPIRE STATE OF DECLINE"
+
+### NEW YORK METS
+**Players:**
+- Francisco LINDOR → "LINDOR-ABLE", "LIN-DOOR SLAMMED", "LINDOR CHOCOLATE" (candy pun)
+- Pete ALONSO → "ALONZO MOURNING" (sad), "A-LONS-GONE", "PETE SAKE", "POLAR POWER"
+- Brandon NIMMO → "NIMMO-COMPOOP", "NIMMO PROBLEMO"
+- Mark VIENTOS → "VIENTOS OF CHANGE" (winds), "VIENTO-LENT"
+- Jeff McNEIL → "McNEIL DOWN", "KNEEL BEFORE MCNEIL"
+- Kodai SENGA → "SENGA-TIONAL", "SENGA-TURE WIN"
+- Tylor MEGILL → "MEGILL-TY", "MEGA-ILL"
+- Owner Steve COHEN → "COHEN BROKE", "COHEN-UNDRUM", "COHEN DO IT"
+- **Team puns:** "AMAZIN' DISGRACE", "MET-ASTROPHE", "MET-ROPOLITAN MESS", "MEET THE MESS", "MET YOUR MATCH", "WHAT A MET-S"
+
+### NEW YORK KNICKS
+**Players:**
+- Jalen BRUNSON → "BRUNSON BURNER", "BRUN-SON OF A GUN", "BRUNSON-ING HOT"
+- Julius RANDLE → "RANDLE WITH CARE", "TOO HOT TO RANDLE", "RANDLE-MANIA"
+- OG ANUNOBY → "O-G WHIZ", "OG MY GOD", "ORIGINAL GANGSTER"
+- Josh HART → "HART ATTACK", "HART OF GOLD", "HART-LESS", "HAVE A HART", "HART-BROKEN", "HART AND SOUL"
+- Miles McBRIDE → "McBRIDE AND JOY", "HERE COMES THE McBRIDE"
+- Donte DiVINCENZO → "DONTE INFERNO", "VENI VIDI VINCI"
+- Mitchell ROBINSON → "ROBINSON CRUSOE", "MR. ROBINSON'S NEIGHBORHOOD"
+- Coach Tom THIBODEAU → "THIBS-ASTER", "THIBS-SOLVING", "THIBS IS IT"
+- **Team puns:** "KNICK-KNACK PADDY WHACK", "KNICK OF TIME", "KNICKS AND BRUISES", "KNICK'D UP"
+
+### BROOKLYN NETS
+**Players:**
+- Cam THOMAS → "DOUBT-ING THOMAS", "THOMAS THE TANK", "TANK THOMAS"
+- Mikal BRIDGES → "BRIDGE OVER TROUBLED WATER", "BURNING BRIDGES", "BRIDGE TO NOWHERE", "BROOKLYN BRIDGE SALE"
+- Dennis SCHRODER → "SCHRODER-ESQUE", "SCHRO-DONE"
+- Nic CLAXTON → "CLAX-ATTACK", "CLAXTON CALL"
+- Ben SIMMONS → "SIMMONS SAYS" (Simon Says), "SIMPLE SIMMONS", "SIMMONS-ING DOWN"
+- **Team puns:** "NET LOSS", "NET ZERO", "SAFETY NET", "NET-ASTROPHE", "BROOKLYN'S FALLING DOWN", "BRIDGE TO NOWHERE"
+
+### NEW YORK RANGERS
+**Players:**
+- Artemi PANARIN → "BREAD MAN" (his nickname), "PANARIN-OID", "BREAD WINNER", "BREAD AND BUTTER"
+- Adam FOX → "FOX-Y", "OUTFOXED", "FOX HUNT", "CRAZY LIKE A FOX", "FOX IN THE HENHOUSE"
+- Mika ZIBANEJAD → "ZIBA-NICE", "ZIBA-NASTY", "ZIBA-NOPE"
+- Chris KREIDER → "KREIDER-ABLE", "KREIDER-MANIA"
+- Igor SHESTERKIN → "CZAR IGOR", "IGOR-GEOUS", "IGOR-NORED"
+- Vincent TROCHECK → "REALITY TROCHECK", "TROCHECK PLEASE" (Czech)
+- Coach Peter LAVIOLETTE → "LAVIOLETTE FEMME", "VIOLENT LAVIOLETTE"
+- **Team puns:** "RANGER DANGER", "RANGERLESS", "LONE STRANGER", "DERANGED"
+
+### NEW YORK ISLANDERS  
+**Players:**
+- Mathew BARZAL → "BARZAL-ONA", "RAISE THE BARZAL", "BEHIND BARZ"
+- Bo HORVAT → "HORVAT ELSE", "HORVAT TO LOVE IT"
+- Brock NELSON → "FULL NELSON", "NELSON MANDELA EFFECT"
+- Anders LEE → "LEE-AVING TOWN", "LEE-THAL", "LEE-T DOWN"
+- Ilya SOROKIN → "SOROKIN GOOD", "SOROKIN-CREDIBLE"
+- **Team puns:** "ISLAND-ER OF MISFIT TOYS", "FANTASY ISLAND", "ISLAND FEVER", "ISLE BE DAMNED"
+
+### NEW YORK GIANTS
+**Players:**
+- Daniel JONES → "JONES-ING FOR A WIN", "KEEPING UP WITH THE JONESES", "JONES-TOWN MASSACRE"
+- Saquon BARKLEY → "BARKLEY ALIVE", "BARK WORSE THAN BITE", "BARKLEY-ING MAD"
+- Brian DABOLL → "DA-BOMB" or "DA-BOLL DROPPED", "DABOLL-ISHED"
+- Malik NABERS → "NABERS-HOOD WATCH", "WON'T YOU BE MY NABERS"
+- Dexter LAWRENCE → "LAWRENCE OF ARABIA", "DEXTER-ITY", "DEXTER-MINATION"
+- **Team puns:** "GIANT MESS", "GIANT KILLERS", "GIANT DISAPPOINTMENT", "FEE FI FO FUMBLE"
+
+### NEW YORK JETS
+**Players:**  
+- Aaron RODGERS → "RODGER THAT", "RODGER DODGER", "UN-RODGETTABLE"
+- Breece HALL → "HALL OF SHAME", "HALL PASS", "DECK THE HALLS", "HALL-ELUJAH"
+- Garrett WILSON → "WILSON!" (Cast Away), "WILSONED OUT"
+- Sauce GARDNER → "SAUCE BOSS", "LOST THE SAUCE", "SAUCED", "SECRET SAUCE"
+- Quinnen WILLIAMS → "QUINN-TESSENTIAL", "QUINN-ING STREAK"
+- Coach Robert SALEH → "SALEH-BRATION", "SALEH-D DAYS" (salad days)
+- **Team puns:** "JET LAG", "JET CRASH", "CRASH LANDING", "GROUNDED", "JET FUEL CAN'T MELT DREAMS"
+
+## COMMON PHRASES TO TWIST
+
+Use player names IN these phrases:
+- "[Name] OF FORTUNE" / "[Name] OF MISFORTUNE"
+- "[Name] AND THE DAMAGE DONE"
+- "[Name]-ING DOWN THE HOUSE"
+- "HAVE A [Name]" / "[Name] ATTACK"
+- "[Name] IMPOSSIBLE"
+- "[Name] OR NOTHING"
+- "KEEPING UP WITH THE [Name]S"
+- "[Name] NOTICE" / "[Name]-ING ORDER"
+- "THE [Name] OF ALL FEARS"
+- "[Name] STRUCK"
+- "IN [Name] WE TRUST"
+- "[Name]-POCALYPSE"
+
+## MOVIE/SONG TITLES TO TWIST WITH NAMES
+
+- "The Good, The Bad, and The [Name]"
+- "[Name] Impossible"
+- "[Name] Actually"
+- "Honey I Shrunk the [Name]"
+- "Dude Where's My [Name]"
+- "[Name] Hard"
+- "[Name] Club"
+- "[Name] Wars"
+- "The [Name] Strikes Back"
+- "Return of the [Name]"
+- "[Name] Unchained"
+- "Once Upon a [Name]"
+- "[Name] Story"
+- "Say [Name] to My Little Friend"
+- "[Name] Fiction"
+
+## 50+ LEGENDARY NY POST EXAMPLES
 
 ### CLASSIC NAME PUNS
 1. "STINK FLOYD" - Floyd Mayweather boring fight
-2. "A-FRAUD" - Alex Rodriguez steroid scandal  
-3. "BELI-CHECK PLEASE" - Patriots embarrassing loss
+2. "A-FRAUD" - Alex Rodriguez steroid scandal
+3. "BELI-CHECK PLEASE" - Patriots loss
 4. "WHAT THE PUCK!" - Rangers disaster
-5. "JETER-MANIA" - Derek Jeter hot streak
+5. "JUDGE-MENT DAY" - Aaron Judge big moment
 6. "KD-YA LATER" - Kevin Durant leaving
-7. "MELO-DRAMA" - Carmelo Anthony trade saga
-8. "BIG PAPI-RAZZI" - David Ortiz celebration
-9. "JUDGE JUDY" - Aaron Judge judgment day
-10. "GRONK-MANIA" - Gronkowski dominance
-
-### MOVIE/TV REFERENCES
-11. "THE WALKING DEAD" - Team playing lifeless
-12. "GAME OF THROWS" - QB battle
-13. "JURASSIC PUCK" - Old goalie dominates
-14. "THE MISERABALES" - Mets losing streak
-15. "SUPERBAD" - Super Bowl blowout loss
-16. "MEN IN BLACKOUT" - Team gets dominated
-17. "THE SIXTH SENSE" - Team dead but doesn't know it
-18. "HOME ALONE" - Player abandoned by teammates
-19. "FROZEN" - Team chokes in cold weather
-20. "DIE HARD" - Improbable comeback win
+7. "MELO-DRAMA" - Carmelo Anthony saga
 
 ### DEVASTATING LOSSES
-21. "CHOKE CITY" - Team blows lead
-22. "LOSERVILLE" - Franchise futility
-23. "WHAT A MESS!" - Embarrassing performance
-24. "PATHETIC" - One word destruction
-25. "GUTLESS" - No heart shown
-26. "TOAST" - Season over
-27. "FINISHED" - Career/season ending
-28. "BURIED" - Blowout loss
-29. "CLOWN SHOW" - Incompetent performance
-30. "TRAIN WRECK" - Disaster game
+- "CHOKE CITY", "LOSERVILLE", "PATHETIC", "GUTLESS", "TOAST", "FINISHED", "BURIED", "CLOWN SHOW"
 
 ### TRIUMPHANT VICTORIES
-31. "AMAZIN'!" - Mets win
-32. "DYNASTY" - Championship dominance
-33. "BELIEVE IT!" - Improbable win
-34. "REVENGE!" - Payback game
-35. "UNSTOPPABLE" - Dominant performance
-36. "IMMORTAL" - Historic achievement
-37. "KING OF NY" - NYC champion
-38. "MAGIC!" - Miraculous win
-39. "PERFECTION" - Perfect game/season
-40. "GIANT KILLERS" - Upset victory
+- "AMAZIN'!", "DYNASTY", "BELIEVE IT!", "UNSTOPPABLE", "KING OF NY", "MAGIC!", "PERFECTION"
 
-### TRADES & TRANSACTIONS  
-41. "HIGHWAY ROBBERY" - Lopsided trade
-42. "GOOD RIDDANCE" - Hated player leaves
-43. "WELCOME TO NY" - Big acquisition
-44. "SOLD!" - Player traded
-45. "BETRAYAL" - Star leaves in FA
-46. "CASH GRAB" - Player chases money
-47. "ESCAPE FROM NY" - Player flees
-48. "RANSOM" - Huge contract
-
-### RHYMES & ALLITERATION
-49. "YANKS FOR NOTHING" - Yankees lose
-50. "DOPES ON ROPES" - Boxing embarrassment
-51. "GIANT MESS" - Giants disaster
-52. "NET LOSS" - Nets/business pun
-53. "JET LAG" - Jets slump
-54. "KNICK KNACK" - Knicks small story
-55. "MET-ASTROPHE" - Mets disaster
-56. "RANGER DANGER" - Rangers in trouble
-
-### ONE-WORD KILLERS
-57. "DOOMED"
-58. "GUTTED"
-59. "CRUSHED"  
-60. "STUNNED"
-61. "CURSED"
-62. "BURIED"
-63. "TORCHED"
-64. "EXPOSED"
-
-## YOUR TECHNIQUE TOOLKIT
-
-1. **NAME SURGERY**: Find ANY way to pun on player/team names
-   - A-Rod → A-Fraud, A-Roid
-   - Judge → Jury, Judgment, Court
-   - Mets → Met-astrophe, Met-s Life
-   
-2. **POP CULTURE HIJACKING**: Twist famous titles
-   - "Game of Thrones" → "Game of Throws"
-   - "The Walking Dead" → (for lifeless team)
-   - "Home Alone" → (abandoned player)
-   
-3. **SOUND-ALIKES**: Homophones and near-rhymes
-   - "Reign" / "Rain" / "Rein"
-   - "Knight" / "Night"  
-   - "Won" / "One"
-   
-4. **TEAM NAME EXPLOITATION**:
-   - Yankees → Yanks for Nothing, Yank My Chain
-   - Mets → What a Mets, Met Your Match
-   - Jets → Jet Lag, Jet Crash, Grounded
-   - Giants → Giant Mess, Giant Killers
-   - Knicks → Knick Knack, Knicked Up
-   - Rangers → Ranger Danger, Lone Stranger
-   - Nets → Net Loss, Safety Net, Net Zero
-   
-5. **EMOTIONAL SLEDGEHAMMER**: One devastating word
-   - PATHETIC, GUTLESS, CURSED, TOAST, DONE
+### TRADES & TRANSACTIONS
+- "HIGHWAY ROBBERY", "GOOD RIDDANCE", "SOLD!", "BETRAYAL", "CASH GRAB", "RANSOM"
 
 ## RULES
 
-1. **SHORTER IS ALWAYS BETTER** - Cut every unnecessary word
+1. **SHORTER IS ALWAYS BETTER** - 2-5 words MAX
 2. **THE GROAN TEST** - If it makes you wince AND laugh, it's perfect
 3. **NO EXPLAINING** - If the pun needs explanation, kill it
 4. **BE SAVAGE** - The Post shows no mercy
-5. **THINK TABLOID** - Bold, brash, unapologetic
-6. **NEW YORK BIAS** - Extra love for NY teams, extra hate for rivals (Boston, Philly)
+5. **USE THE NAME PUN DICTIONARY** - When a NY player is mentioned, ALWAYS try their name puns first
+6. **NEW YORK BIAS** - Extra love for NY teams, extra hate for Boston, Philly, Dallas
 
 ## OUTPUT FORMAT
 
-Return exactly 5 headlines as JSON. First one is your BEST. Each needs a technique explanation.
+Return exactly 5 headlines as JSON. First one is your BEST.
 
 {
   "headlines": [
-    {"headline": "YOUR ABSOLUTE BEST 2-5 WORD HEADLINE IN CAPS", "technique": "Why it works - be specific about the pun/reference"},
+    {"headline": "YOUR ABSOLUTE BEST 2-5 WORD HEADLINE IN CAPS", "technique": "Why it works"},
     {"headline": "SECOND BEST", "technique": "Explanation"},
     {"headline": "THIRD OPTION", "technique": "Explanation"},
     {"headline": "FOURTH OPTION", "technique": "Explanation"},
@@ -185,7 +218,7 @@ export async function POST(request: Request) {
       messages: [
         { 
           role: 'user', 
-          content: `Generate NY Post sports back page style headlines for this story. Remember: SHORT, PUNNY, SAVAGE.\n\nSTORY: ${story}` 
+          content: `Generate NY Post sports back page style headlines for this story. Remember: SHORT, PUNNY, SAVAGE. If any NY players/teams are mentioned, USE THEIR NAME PUNS.\n\nSTORY: ${story}` 
         }
       ],
     })
