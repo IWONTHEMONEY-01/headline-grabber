@@ -50,13 +50,6 @@ export default function Home() {
     <main className="container mx-auto px-4 py-8 max-w-4xl">
       {/* Header */}
       <div className="text-center mb-8">
-        <div className="flex justify-center mb-4">
-          <img 
-            src="/mascot.jpg" 
-            alt="Headline Grabber Mascot" 
-            className="w-32 h-32 rounded-full object-cover object-top border-4 border-nypost-red shadow-lg"
-          />
-        </div>
         <h1 className="text-5xl font-bold text-nypost-red headline-text mb-2">
           HEADLINE GRABBER
         </h1>
@@ -70,13 +63,28 @@ export default function Home() {
         <label htmlFor="story" className="block text-lg font-semibold mb-2">
           📰 Enter your news story:
         </label>
-        <textarea
-          id="story"
-          value={story}
-          onChange={(e) => setStory(e.target.value)}
-          placeholder="e.g., Luis Robert Jr. was traded from the White Sox to the Mets for Luisangel Acuña..."
-          className="w-full h-32 p-4 border border-gray-300 rounded-lg resize-none focus:outline-none focus:ring-2 focus:ring-nypost-red focus:border-transparent"
-        />
+        
+        <div className="flex gap-4 items-start">
+          {/* Mascot */}
+          <div className="flex-shrink-0 hidden sm:block">
+            <img 
+              src="/mascot.jpg" 
+              alt="Headline Grabber Mascot" 
+              className="w-28 h-36 rounded-lg object-cover object-top border-4 border-nypost-red shadow-lg"
+            />
+          </div>
+          
+          {/* Text Input */}
+          <div className="flex-grow">
+            <textarea
+              id="story"
+              value={story}
+              onChange={(e) => setStory(e.target.value)}
+              placeholder="e.g., Luis Robert Jr. was traded from the White Sox to the Mets for Luisangel Acuña..."
+              className="w-full h-36 p-4 border border-gray-300 rounded-lg resize-none focus:outline-none focus:ring-2 focus:ring-nypost-red focus:border-transparent"
+            />
+          </div>
+        </div>
         
         <button
           onClick={generateHeadlines}
