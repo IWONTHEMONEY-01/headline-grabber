@@ -1,9 +1,17 @@
 import { NextResponse } from 'next/server'
 import OpenAI from 'openai'
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-})
+// Lazy initialization to avoid build-time errors
+let openai: OpenAI | null = null
+
+function getOpenAI() {
+  if (!openai) {
+    openai = new OpenAI({
+      apiKey: process.env.OPENAI_API_KEY || '',
+    })
+  }
+  return openai
+}
 
 const SYSTEM_PROMPT = `You are the NY Post headline writer - the best in the business at punchy, witty, irreverent headlines.
 
@@ -39,6 +47,13 @@ The first headline should be your absolute best pick. Make readers groan AND lau
 
 export async function POST(request: Request) {
   try {
+    if (!process.env.OPENAI_API_KEY) {
+      return NextResponse.json(
+        { error: 'OpenAI API key not configured' },
+        { status: 500 }
+      )
+    }
+
     const { story } = await request.json()
 
     if (!story || typeof story !== 'string') {
@@ -48,7 +63,7 @@ export async function POST(request: Request) {
       )
     }
 
-    const completion = await openai.chat.completions.create({
+    const completion = await getOpenAI().chat.completions.create({
       model: process.env.OPENAI_MODEL || 'gpt-4-turbo-preview',
       messages: [
         { role: 'system', content: SYSTEM_PROMPT },
