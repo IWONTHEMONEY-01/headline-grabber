@@ -1,16 +1,16 @@
 import { NextResponse } from 'next/server'
-import OpenAI from 'openai'
+import Anthropic from '@anthropic-ai/sdk'
 
 // Lazy initialization to avoid build-time errors
-let openai: OpenAI | null = null
+let anthropic: Anthropic | null = null
 
-function getOpenAI() {
-  if (!openai) {
-    openai = new OpenAI({
-      apiKey: process.env.OPENAI_API_KEY || '',
+function getAnthropic() {
+  if (!anthropic) {
+    anthropic = new Anthropic({
+      apiKey: process.env.ANTHROPIC_API_KEY || '',
     })
   }
-  return openai
+  return anthropic
 }
 
 const SYSTEM_PROMPT = `You are the NY Post headline writer - the best in the business at punchy, witty, irreverent headlines.
@@ -43,13 +43,13 @@ Return exactly 5 headlines in this JSON format:
   ]
 }
 
-The first headline should be your absolute best pick. Make readers groan AND laugh.`
+The first headline should be your absolute best pick. Make readers groan AND laugh. Return ONLY the JSON, no other text.`
 
 export async function POST(request: Request) {
   try {
-    if (!process.env.OPENAI_API_KEY) {
+    if (!process.env.ANTHROPIC_API_KEY) {
       return NextResponse.json(
-        { error: 'OpenAI API key not configured' },
+        { error: 'Anthropic API key not configured' },
         { status: 500 }
       )
     }
@@ -63,23 +63,30 @@ export async function POST(request: Request) {
       )
     }
 
-    const completion = await getOpenAI().chat.completions.create({
-      model: process.env.OPENAI_MODEL || 'gpt-4-turbo-preview',
+    const message = await getAnthropic().messages.create({
+      model: process.env.ANTHROPIC_MODEL || 'claude-sonnet-4-20250514',
+      max_tokens: 1024,
+      system: SYSTEM_PROMPT,
       messages: [
-        { role: 'system', content: SYSTEM_PROMPT },
-        { role: 'user', content: `Generate NY Post style headlines for this story:\n\n${story}` }
+        { 
+          role: 'user', 
+          content: `Generate NY Post style headlines for this story:\n\n${story}` 
+        }
       ],
-      response_format: { type: 'json_object' },
-      temperature: 0.9,
-      max_tokens: 1000,
     })
 
-    const content = completion.choices[0]?.message?.content
-    if (!content) {
-      throw new Error('No response from AI')
+    const content = message.content[0]
+    if (content.type !== 'text') {
+      throw new Error('Unexpected response type')
     }
 
-    const result = JSON.parse(content)
+    // Parse the JSON from Claude's response
+    const jsonMatch = content.text.match(/\{[\s\S]*\}/)
+    if (!jsonMatch) {
+      throw new Error('No JSON found in response')
+    }
+    
+    const result = JSON.parse(jsonMatch[0])
     
     return NextResponse.json(result)
   } catch (error) {
