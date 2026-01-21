@@ -66,11 +66,11 @@ export default function Home() {
         
         <div className="flex gap-4 items-start">
           {/* Mascot */}
-          <div className="flex-shrink-0 hidden sm:block">
+          <div className="flex-shrink-0">
             <img 
               src="/mascot.jpg" 
               alt="Headline Grabber Mascot" 
-              className="w-28 h-36 rounded-lg object-cover object-top border-4 border-nypost-red shadow-lg"
+              className="w-20 h-28 sm:w-28 sm:h-36 rounded-lg object-cover object-top border-4 border-nypost-red shadow-lg"
             />
           </div>
           
