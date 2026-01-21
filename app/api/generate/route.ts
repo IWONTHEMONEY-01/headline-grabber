@@ -89,10 +89,14 @@ export async function POST(request: Request) {
     const result = JSON.parse(jsonMatch[0])
     
     return NextResponse.json(result)
-  } catch (error) {
+  } catch (error: any) {
     console.error('Error generating headlines:', error)
     return NextResponse.json(
-      { error: 'Failed to generate headlines' },
+      { 
+        error: 'Failed to generate headlines',
+        details: error?.message || 'Unknown error',
+        type: error?.constructor?.name || 'Unknown'
+      },
       { status: 500 }
     )
   }
