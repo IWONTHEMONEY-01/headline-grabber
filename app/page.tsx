@@ -51,7 +51,7 @@ export default function Home() {
       {/* Header */}
       <div className="text-center mb-8">
         <h1 className="text-5xl font-bold text-nypost-red headline-text mb-2">
-          HEADLINE GRABBER
+          TOPHAT BARITONE CANOLI MAN
         </h1>
         <p className="text-gray-600 text-lg">
           Generate punchy, witty headlines in the iconic NY Post style
