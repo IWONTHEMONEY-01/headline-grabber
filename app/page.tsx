@@ -50,6 +50,13 @@ export default function Home() {
     <main className="container mx-auto px-4 py-8 max-w-4xl">
       {/* Header */}
       <div className="text-center mb-8">
+        <div className="flex justify-center mb-4">
+          <img 
+            src="/mascot.jpg" 
+            alt="Headline Grabber Mascot" 
+            className="w-32 h-32 rounded-full object-cover object-top border-4 border-nypost-red shadow-lg"
+          />
+        </div>
         <h1 className="text-5xl font-bold text-nypost-red headline-text mb-2">
           HEADLINE GRABBER
         </h1>
